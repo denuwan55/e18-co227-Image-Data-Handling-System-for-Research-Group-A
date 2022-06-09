@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+---
+layout: home
+permalink: index.html
 
-You can use the [editor on GitHub](https://github.com/denuwan55/e18-co227-Image-Data-Handling-System-for-Research-Group-A/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Please update this with your repository name and title
+repository-name: e18-co227-Image-Data-Handling-System-for-Research-Group-A
+title: Image Data Handling System for Research
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Image Data Handling System for Research
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!--- This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
 
-```markdown
-Syntax highlighted code block
+![Sample Image](./images/sample.png) --->
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Team
+-  e18170, Kavinda Karunarathna, [email](mailto:e18170@eng.pdn.ac.lk)
+-  e18382, Denuwan Weerarathne, [email](mailto:e18382@eng.pdn.ac.lk)
+-  e18398, Nimuthu Wijerathne, [email](mailto:e18398@eng.pdn.ac.lk)
 
-1. Numbered
-2. List
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Links](#links)
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## Introduction
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ This project contains a web-based application that can be used to upload, annotate and store images with annotation data. Any 3rd party may access this annotation data through the API.
+![Web app preview](https://user-images.githubusercontent.com/73521459/172683464-d926ff2f-a13c-48bf-adc1-687a432e5c1f.png)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/denuwan55/e18-co227-Image-Data-Handling-System-for-Research-Group-A/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+.....
 
-### Support or Contact
+## Links
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Project Repository](https://github.com/cepdnaclk/e18-co227-Image-Data-Handling-System-for-Research-Group-A)
+- [Project Page](https://cepdnaclk.github.io/e18-co227-Image-Data-Handling-System-for-Research-Group-A)
+- [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
+- [University of Peradeniya](https://eng.pdn.ac.lk/)
+
+
+<!---[//]: # (Please refer this to learn more about Markdown syntax)
+[//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) --->
